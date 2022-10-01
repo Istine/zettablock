@@ -36,7 +36,7 @@ variables:{
 
 ## Sample Response
 
-```json
+```js
 Sample message string: 
 "@chris (umbrella) Olympics are starting soon; http://www.nbcolympics.com"
 {
